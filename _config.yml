@@ -1,0 +1,17 @@
+markdown: rdiscount
+pygments: true
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
+exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
+title : Timothy F. Cook
+production_url : http://timothyfcook.com
+description: "The future of learning, new economies, and Pittsburgh."
+disqus_shortname: timothyfcook
+analytics:
+gauges:
+author :
+  name : Timothy F. Cook
+  github : timothyfcook
+  twitter : timothyfcook
+  email: timothyfcook@gmail.com
